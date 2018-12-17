@@ -1,0 +1,6 @@
+#Compiled Files
+*.tfstate
+*tfstate.backup
+
+#Module
+.terraform/
